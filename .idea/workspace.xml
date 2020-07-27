@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="" />
+    <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ahmed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proplems_easy/189. Rotate Array.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f3SJ6XyqMMpT0fldHoRIFW7yMu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -33,7 +46,7 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.proplems_easy._1313__Decompress_Run_Length_Encoded_ListKt">
+  <component name="RunManager" selected="Kotlin.proplems_easy._189_RotateArrayKt">
     <configuration name="proplems_easy._1313__Decompress_Run_Length_Encoded_ListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -42,6 +55,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="proplems_easy._1313__Decompress_Run_Length_Encoded_ListKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proplems_easy._189_RotateArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="proplems_easy._189_RotateArrayKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.proplems_easy._189_RotateArrayKt" />
         <item itemvalue="Kotlin.proplems_easy._1313__Decompress_Run_Length_Encoded_ListKt" />
         <item itemvalue="Kotlin.proplems_easy._26__Remove_Duplicates_from_Sorted_ArrayKt" />
         <item itemvalue="Kotlin.proplems_medium._1282__Group_the_People_Given_the_Group_Size_They_Belong_ToKt" />
@@ -107,38 +134,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="439" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1595687002887" />
-    <state width="1237" height="87" key="GridCell.Tab.0.bottom" timestamp="1595810785846">
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1595879680306">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="87" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595810785846" />
-    <state width="1237" height="87" key="GridCell.Tab.0.center" timestamp="1595810785846">
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595879680306" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1595879680305">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="87" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595810785846" />
-    <state width="1237" height="87" key="GridCell.Tab.0.left" timestamp="1595810785846">
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595879680305" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1595879680305">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="87" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595810785846" />
-    <state width="1237" height="87" key="GridCell.Tab.0.right" timestamp="1595810785846">
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595879680305" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1595879680305">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="87" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595810785846" />
-    <state width="1237" height="217" key="GridCell.Tab.1.bottom" timestamp="1595808802260">
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595879680305" />
+    <state width="1237" height="264" key="GridCell.Tab.1.bottom" timestamp="1595879047381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="217" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595808802260" />
-    <state width="1237" height="217" key="GridCell.Tab.1.center" timestamp="1595808802260">
+    <state width="1237" height="264" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595879047381" />
+    <state width="1237" height="264" key="GridCell.Tab.1.center" timestamp="1595879047381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="217" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595808802260" />
-    <state width="1237" height="217" key="GridCell.Tab.1.left" timestamp="1595808802260">
+    <state width="1237" height="264" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595879047381" />
+    <state width="1237" height="264" key="GridCell.Tab.1.left" timestamp="1595879047381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="217" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595808802260" />
-    <state width="1237" height="217" key="GridCell.Tab.1.right" timestamp="1595808802260">
+    <state width="1237" height="264" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595879047381" />
+    <state width="1237" height="264" key="GridCell.Tab.1.right" timestamp="1595879047381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="217" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595808802260" />
+    <state width="1237" height="264" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595879047381" />
     <state x="91" y="65" key="new project wizard" timestamp="1595512297131">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -201,6 +228,16 @@
           <url>file://$PROJECT_DIR$/src/proplems_easy/26. Remove Duplicates from Sorted Array.kt</url>
           <line>12</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/proplems_easy/189. Rotate Array.kt</url>
+          <line>4</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/proplems_easy/189. Rotate Array.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

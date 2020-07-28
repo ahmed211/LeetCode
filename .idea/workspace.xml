@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/proplems_easy/344. Reverse String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proplems_easy/387. First Unique Character in a String.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ahmed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ahmed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/proplems_easy/_189__Rotate_ArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/proplems_easy/_189__Rotate_ArrayKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.proplems_easy._344__Reverse_StringKt">
+  <component name="RunManager" selected="Kotlin.proplems_easy._387__First_Unique_Character_in_a_StringKt">
     <configuration name="proplems_easy._1313__Decompress_Run_Length_Encoded_ListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -98,14 +98,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="proplems_medium._1282__Group_the_People_Given_the_Group_Size_They_Belong_ToKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="proplems_easy._387__First_Unique_Character_in_a_StringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="proplems_medium._1282__Group_the_People_Given_the_Group_Size_They_Belong_ToKt" />
+      <option name="MAIN_CLASS_NAME" value="proplems_easy._387__First_Unique_Character_in_a_StringKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.proplems_easy._387__First_Unique_Character_in_a_StringKt" />
         <item itemvalue="Kotlin.proplems_easy._344__Reverse_StringKt" />
         <item itemvalue="Kotlin.proplems_easy._189__Rotate_ArrayKt" />
         <item itemvalue="Kotlin.proplems_easy._1313__Decompress_Run_Length_Encoded_ListKt" />
         <item itemvalue="Kotlin.proplems_easy._26__Remove_Duplicates_from_Sorted_ArrayKt" />
-        <item itemvalue="Kotlin.proplems_medium._1282__Group_the_People_Given_the_Group_Size_They_Belong_ToKt" />
       </list>
     </recent_temporary>
   </component>
@@ -139,46 +139,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595445445462" />
-    <state x="396" y="44" key="#xdebugger.evaluate" timestamp="1595808638969">
+    <state x="396" y="44" key="#xdebugger.evaluate" timestamp="1595955801174">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1595808638969" />
+    <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1595955801174" />
     <state width="439" height="438" key="DebuggerActiveHint" timestamp="1595687002887">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="439" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1595687002887" />
-    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1595895874200">
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1595969191856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595895874200" />
-    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1595895874200">
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595969191856" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1595969191856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595895874200" />
-    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1595895874200">
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595969191856" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1595969191855">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595895874200" />
-    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1595895874200">
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595969191855" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1595969191856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595895874200" />
-    <state width="1237" height="264" key="GridCell.Tab.1.bottom" timestamp="1595895612291">
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595969191856" />
+    <state width="1237" height="264" key="GridCell.Tab.1.bottom" timestamp="1595955824028">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="264" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595895612291" />
-    <state width="1237" height="264" key="GridCell.Tab.1.center" timestamp="1595895612291">
+    <state width="1237" height="264" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595955824028" />
+    <state width="1237" height="264" key="GridCell.Tab.1.center" timestamp="1595955824028">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="264" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595895612291" />
-    <state width="1237" height="264" key="GridCell.Tab.1.left" timestamp="1595895612290">
+    <state width="1237" height="264" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595955824028" />
+    <state width="1237" height="264" key="GridCell.Tab.1.left" timestamp="1595955824027">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="264" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595895612290" />
-    <state width="1237" height="264" key="GridCell.Tab.1.right" timestamp="1595895612291">
+    <state width="1237" height="264" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595955824027" />
+    <state width="1237" height="264" key="GridCell.Tab.1.right" timestamp="1595955824028">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="264" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595895612291" />
+    <state width="1237" height="264" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595955824028" />
     <state x="91" y="65" key="new project wizard" timestamp="1595512297131">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -256,6 +256,16 @@
           <url>file://$PROJECT_DIR$/src/proplems_easy/344. Reverse String.kt</url>
           <line>9</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/proplems_easy/387. First Unique Character in a String.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/proplems_easy/387. First Unique Character in a String.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/proplems_easy/189. Rotate Array.kt</url>

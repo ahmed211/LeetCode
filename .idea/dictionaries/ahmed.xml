@@ -2,6 +2,7 @@
   <dictionary name="ahmed">
     <words>
       <w>nums</w>
+      <w>uniq</w>
     </words>
   </dictionary>
 </component>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/proplems_easy/125. Valid Palindrome.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proplems_easy/520. Detect Capital.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.proplems_easy._125__Valid_PalindromeKt">
+  <component name="RunManager" selected="Kotlin.proplems_easy._520__Detect_CapitalKt">
     <configuration name="proplems_easy._125__Valid_PalindromeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -52,19 +52,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="proplems_easy._125__Valid_PalindromeKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="proplems_easy._189__Rotate_ArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Problems" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="proplems_easy._189__Rotate_ArrayKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="proplems_easy._520__Detect_CapitalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="proplems_easy._520__Detect_CapitalKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.proplems_easy._520__Detect_CapitalKt" />
         <item itemvalue="Kotlin.proplems_easy._125__Valid_PalindromeKt" />
         <item itemvalue="Kotlin.proplems_easy._217__Contains_DuplicateKt" />
         <item itemvalue="Kotlin.proplems_easy._387__First_Unique_Character_in_a_StringKt" />
         <item itemvalue="Kotlin.proplems_easy._344__Reverse_StringKt" />
-        <item itemvalue="Kotlin.proplems_easy._189__Rotate_ArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -145,22 +145,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="439" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1595687002887" />
-    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1596080104864">
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1596494864216">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596080104864" />
-    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1596080104864">
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596494864216" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1596494864216">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596080104864" />
-    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1596080104864">
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596494864216" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1596494864215">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596080104864" />
-    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1596080104864">
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596494864215" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1596494864216">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596080104864" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596494864216" />
     <state width="1237" height="264" key="GridCell.Tab.1.bottom" timestamp="1596024407546">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

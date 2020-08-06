@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/proplems_easy/520. Detect Capital.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proplems_easy/342. Power of Four.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proplems_medium/211. Add and Search Word - Data structure design.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proplems_medium/442. Find All Duplicates in an Array.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems/proplems_easy/_520__Detect_CapitalKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/proplems_easy/_520__Detect_CapitalKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +47,7 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.proplems_easy._520__Detect_CapitalKt">
+  <component name="RunManager" selected="Kotlin.proplems_medium._442__Find_All_Duplicates_in_an_ArrayKt">
     <configuration name="proplems_easy._125__Valid_PalindromeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -57,40 +61,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="proplems_easy._217__Contains_DuplicateKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="proplems_easy._342__Power_of_FourKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="proplems_easy._217__Contains_DuplicateKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="proplems_easy._344__Reverse_StringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Problems" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="proplems_easy._344__Reverse_StringKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="proplems_easy._387__First_Unique_Character_in_a_StringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Problems" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="proplems_easy._387__First_Unique_Character_in_a_StringKt" />
+      <option name="MAIN_CLASS_NAME" value="proplems_easy._342__Power_of_FourKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,13 +87,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="proplems_medium._211__Add_and_Search_Word___Data_structure_designKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="proplems_medium._211__Add_and_Search_Word___Data_structure_designKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proplems_medium._442__Find_All_Duplicates_in_an_ArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="proplems_medium._442__Find_All_Duplicates_in_an_ArrayKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.proplems_medium._442__Find_All_Duplicates_in_an_ArrayKt" />
+        <item itemvalue="Kotlin.proplems_medium._211__Add_and_Search_Word___Data_structure_designKt" />
+        <item itemvalue="Kotlin.proplems_easy._342__Power_of_FourKt" />
         <item itemvalue="Kotlin.proplems_easy._520__Detect_CapitalKt" />
         <item itemvalue="Kotlin.proplems_easy._125__Valid_PalindromeKt" />
-        <item itemvalue="Kotlin.proplems_easy._217__Contains_DuplicateKt" />
-        <item itemvalue="Kotlin.proplems_easy._387__First_Unique_Character_in_a_StringKt" />
-        <item itemvalue="Kotlin.proplems_easy._344__Reverse_StringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -145,22 +149,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="439" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1595687002887" />
-    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1596494864216">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1596502701259">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596494864216" />
-    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1596494864216">
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596502701259" />
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1596666630725">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596494864216" />
-    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1596494864215">
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596666630725" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1596666630725">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596494864215" />
-    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1596494864216">
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596666630725" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1596666630725">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596494864216" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596666630725" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1596666630725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596666630725" />
     <state width="1237" height="264" key="GridCell.Tab.1.bottom" timestamp="1596024407546">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -177,10 +185,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="264" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596024407545" />
-    <state x="91" y="65" key="new project wizard" timestamp="1595512297131">
+    <state x="91" y="65" key="new project wizard" timestamp="1596502736735">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="91" y="65" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1595512297131" />
+    <state x="91" y="65" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1596502736735" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

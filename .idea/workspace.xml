@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/proplems_easy/119. Pascal's Triangle II.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proplems_medium/994. Rotting Oranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proplems_medium/144. Binary Tree Preorder Traversal.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/proplems_medium/WordDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/proplems_medium/WordDictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/proplems_medium/_211__Add_and_Search_Word___Data_structure_designKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/proplems_medium/_211__Add_and_Search_Word___Data_structure_designKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._119__Pascal_s_Triangle_IIKt">
+  <component name="RunManager" selected="Kotlin._144__Binary_Tree_Preorder_TraversalKt">
     <configuration name="_119__Pascal_s_Triangle_IIKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -61,14 +57,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="proplems_easy._342__Power_of_FourKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_144__Binary_Tree_Preorder_TraversalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="proplems_easy._342__Power_of_FourKt" />
+      <option name="MAIN_CLASS_NAME" value="proplems_medium._144__Binary_Tree_Preorder_TraversalKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._144__Binary_Tree_Preorder_TraversalKt" />
         <item itemvalue="Kotlin._119__Pascal_s_Triangle_IIKt" />
         <item itemvalue="Kotlin.proplems_medium._994__Rotting_OrangesKt" />
         <item itemvalue="Kotlin.proplems_medium._442__Find_All_Duplicates_in_an_ArrayKt" />
         <item itemvalue="Kotlin.proplems_medium._211__Add_and_Search_Word___Data_structure_designKt" />
-        <item itemvalue="Kotlin.proplems_easy._342__Power_of_FourKt" />
       </list>
     </recent_temporary>
   </component>
@@ -153,38 +149,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596502701259" />
-    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1597251764011">
+    <state width="1237" height="99" key="GridCell.Tab.0.bottom" timestamp="1597267470910">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597251764011" />
-    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1597251764011">
+    <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597267470910" />
+    <state width="1237" height="99" key="GridCell.Tab.0.center" timestamp="1597267470910">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597251764011" />
-    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1597251764010">
+    <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597267470910" />
+    <state width="1237" height="99" key="GridCell.Tab.0.left" timestamp="1597267470910">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597251764010" />
-    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1597251764011">
+    <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597267470910" />
+    <state width="1237" height="99" key="GridCell.Tab.0.right" timestamp="1597267470910">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597251764011" />
-    <state width="1237" height="218" key="GridCell.Tab.1.bottom" timestamp="1597247823790">
+    <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597267470910" />
+    <state width="1237" height="218" key="GridCell.Tab.1.bottom" timestamp="1597252333476">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="218" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597247823790" />
-    <state width="1237" height="218" key="GridCell.Tab.1.center" timestamp="1597247823790">
+    <state width="1237" height="218" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597252333476" />
+    <state width="1237" height="218" key="GridCell.Tab.1.center" timestamp="1597252333474">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="218" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597247823790" />
-    <state width="1237" height="218" key="GridCell.Tab.1.left" timestamp="1597247823790">
+    <state width="1237" height="218" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597252333474" />
+    <state width="1237" height="218" key="GridCell.Tab.1.left" timestamp="1597252333473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="218" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597247823790" />
-    <state width="1237" height="218" key="GridCell.Tab.1.right" timestamp="1597247823790">
+    <state width="1237" height="218" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597252333473" />
+    <state width="1237" height="218" key="GridCell.Tab.1.right" timestamp="1597252333475">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="218" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597247823790" />
+    <state width="1237" height="218" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597252333475" />
     <state x="91" y="65" key="new project wizard" timestamp="1596502736735">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

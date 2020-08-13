@@ -1,6 +1,4 @@
-package proplems_medium
-
-import proplems_easy.removeDuplicates
+package problems_medium
 
 fun orangesRotting(grid: Array<IntArray>): Int {
     val totalSize = grid.size*grid[0].size

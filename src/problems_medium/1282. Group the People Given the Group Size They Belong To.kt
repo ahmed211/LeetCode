@@ -1,4 +1,4 @@
-package proplems_medium
+package problems_medium
 
 fun groupThePeople(groupSizes: IntArray): List<List<Int>> {
     val parentGroup: ArrayList<ArrayList<Int>> = ArrayList()

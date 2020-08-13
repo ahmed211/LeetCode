@@ -1,6 +1,4 @@
-package proplems_easy
-
-import java.util.*
+package problems_easy
 
 fun rotate(nums: IntArray, k: Int): Unit {
 

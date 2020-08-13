@@ -1,4 +1,4 @@
-package proplems_easy
+package problems_easy
 
 fun firstUniqChar(s: String): Int {
     var alphabet = IntArray(26) {0}

@@ -1,4 +1,4 @@
-package proplems_easy
+package problems_easy
 
 fun reverseString(s: CharArray): Unit {
     var temp = 'a'

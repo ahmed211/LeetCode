@@ -1,4 +1,4 @@
-package proplems_easy
+package problems_easy
 
 fun removeDuplicates(nums: IntArray): Int {
     if (nums.isEmpty()){

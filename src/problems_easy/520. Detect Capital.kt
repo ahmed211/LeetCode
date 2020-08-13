@@ -1,4 +1,4 @@
-package proplems_easy
+package problems_easy
 
 fun detectCapitalUse(word: String): Boolean {
     var capital = 0

@@ -1,7 +1,4 @@
-package proplems_easy
-
-import kotlin.math.log
-import kotlin.math.pow
+package problems_easy
 
 fun isPowerOfFour(num: Int): Boolean {
 

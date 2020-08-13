@@ -1,4 +1,4 @@
-package proplems_easy
+package problems_easy
 
 fun isPalindrome(s: String): Boolean {
     val plain = Regex("[^a-z0-9]").replace(s.toLowerCase(), "")

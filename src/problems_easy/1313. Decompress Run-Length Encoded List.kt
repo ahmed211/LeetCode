@@ -1,4 +1,4 @@
-package proplems_easy
+package problems_easy
 
 import kotlin.collections.ArrayList
 

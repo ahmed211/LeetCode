@@ -1,4 +1,4 @@
-package proplems_medium
+package problems_medium
 
 class TreeNode(var `val`: Int) {
     var left: TreeNode? = null
@@ -6,14 +6,14 @@ class TreeNode(var `val`: Int) {
 }
 
 
-val traversalList = ArrayList<Int>()
+private val traversalList = ArrayList<Int>()
 
 fun preorderTraversal(root: TreeNode?): List<Int> {
     dfs(root)
     return traversalList
 }
 
-fun dfs(root: TreeNode?){
+private fun dfs(root: TreeNode?){
     if (root != null){
         traversalList.add(root.`val`)
         dfs(root.left)
@@ -22,10 +22,6 @@ fun dfs(root: TreeNode?){
 }
 
 fun main(){
-//    val t = TreeNode(5)
-//    t.right!!.`val`=3
     println(preorderTraversal(TreeNode(5)))
-    println(preorderTraversal(TreeNode(4)))
-    println(preorderTraversal(TreeNode(2)))
 }
 

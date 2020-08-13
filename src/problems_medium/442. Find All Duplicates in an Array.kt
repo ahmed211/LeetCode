@@ -1,4 +1,4 @@
-package proplems_medium
+package problems_medium
 
 fun findDuplicates(nums: IntArray): List<Int> {
     val elementCounts = IntArray(nums.size+1){0}

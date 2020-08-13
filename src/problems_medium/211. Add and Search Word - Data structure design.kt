@@ -1,4 +1,4 @@
-package proplems_medium
+package problems_medium
 
 
 // not solved yet

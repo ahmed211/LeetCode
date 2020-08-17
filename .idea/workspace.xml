@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problems_hard/145. Binary Tree Postorder Traversal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_medium/94. Binary Tree Inorder Traversal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_easy/1103. Distribute Candies to People.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/proplems_medium/_144__Binary_Tree_Preorder_TraversalKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/proplems_medium/_144__Binary_Tree_Preorder_TraversalKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/119. Pascal's Triangle II.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/119. Pascal's Triangle II.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/125. Valid Palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/125. Valid Palindrome.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/1313. Decompress Run-Length Encoded List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/1313. Decompress Run-Length Encoded List.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/189. Rotate Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/189. Rotate Array.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/217. Contains Duplicate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/217. Contains Duplicate.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/26. Remove Duplicates from Sorted Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/26. Remove Duplicates from Sorted Array.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/342. Power of Four.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/342. Power of Four.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/344. Reverse String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/344. Reverse String.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/387. First Unique Character in a String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/387. First Unique Character in a String.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_easy/520. Detect Capital.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/520. Detect Capital.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_medium/1282. Group the People Given the Group Size They Belong To.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_medium/1282. Group the People Given the Group Size They Belong To.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_medium/144. Binary Tree Preorder Traversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_medium/144. Binary Tree Preorder Traversal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_medium/211. Add and Search Word - Data structure design.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_medium/211. Add and Search Word - Data structure design.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_medium/442. Find All Duplicates in an Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_medium/442. Find All Duplicates in an Array.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proplems_medium/994. Rotting Oranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_medium/994. Rotting Oranges.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +43,20 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._94__Binary_Tree_Inorder_TraversalKt">
+  <component name="RunManager" selected="Kotlin._1103__Distribute_Candies_to_PeopleKt">
+    <configuration name="_1103__Distribute_Candies_to_PeopleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="problems_easy._1103__Distribute_Candies_to_PeopleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_119__Pascal_s_Triangle_IIKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -83,19 +78,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="problems_medium._144__Binary_Tree_Preorder_TraversalKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_442__Find_All_Duplicates_in_an_ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Problems" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_medium._442__Find_All_Duplicates_in_an_ArrayKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1103__Distribute_Candies_to_PeopleKt" />
         <item itemvalue="Kotlin._94__Binary_Tree_Inorder_TraversalKt" />
         <item itemvalue="Kotlin._144__Binary_Tree_Preorder_TraversalKt" />
         <item itemvalue="Kotlin._119__Pascal_s_Triangle_IIKt" />
-        <item itemvalue="Kotlin.proplems_medium._994__Rotting_OrangesKt" />
-        <item itemvalue="Kotlin.proplems_medium._442__Find_All_Duplicates_in_an_ArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -167,22 +148,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596502701259" />
-    <state width="1237" height="99" key="GridCell.Tab.0.bottom" timestamp="1597323589076">
+    <state width="1237" height="99" key="GridCell.Tab.0.bottom" timestamp="1597703768842">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597323589076" />
-    <state width="1237" height="99" key="GridCell.Tab.0.center" timestamp="1597323589075">
+    <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597703768842" />
+    <state width="1237" height="99" key="GridCell.Tab.0.center" timestamp="1597703768842">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597323589075" />
-    <state width="1237" height="99" key="GridCell.Tab.0.left" timestamp="1597323589075">
+    <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597703768842" />
+    <state width="1237" height="99" key="GridCell.Tab.0.left" timestamp="1597703768841">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597323589075" />
-    <state width="1237" height="99" key="GridCell.Tab.0.right" timestamp="1597323589076">
+    <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597703768841" />
+    <state width="1237" height="99" key="GridCell.Tab.0.right" timestamp="1597703768842">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597323589076" />
+    <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597703768842" />
     <state width="1237" height="218" key="GridCell.Tab.1.bottom" timestamp="1597252333476">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problems_easy/1103. Distribute Candies to People.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1103__Distribute_Candies_to_PeopleKt">
+  <component name="RunManager" selected="Kotlin._967__Numbers_With_Same_Consecutive_DifferencesKt">
     <configuration name="_1103__Distribute_Candies_to_PeopleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -96,14 +96,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_994__Rotting_OrangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_967__Numbers_With_Same_Consecutive_DifferencesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_medium._994__Rotting_OrangesKt" />
+      <option name="MAIN_CLASS_NAME" value="problems_medium._967__Numbers_With_Same_Consecutive_DifferencesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._967__Numbers_With_Same_Consecutive_DifferencesKt" />
         <item itemvalue="Kotlin._1103__Distribute_Candies_to_PeopleKt" />
         <item itemvalue="Kotlin._94__Binary_Tree_Inorder_TraversalKt" />
         <item itemvalue="Kotlin._144__Binary_Tree_Preorder_TraversalKt" />
@@ -136,10 +137,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595445445462" />
-    <state x="396" y="44" key="#xdebugger.evaluate" timestamp="1595955801174">
+    <state x="47" y="87" key="#xdebugger.evaluate" timestamp="1597784598155">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1595955801174" />
+    <state x="47" y="87" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1597784598155" />
     <state width="439" height="438" key="DebuggerActiveHint" timestamp="1595687002887">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -148,38 +149,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596502701259" />
-    <state width="1237" height="99" key="GridCell.Tab.0.bottom" timestamp="1597703768842">
+    <state width="1237" height="183" key="GridCell.Tab.0.bottom" timestamp="1597787317757">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597703768842" />
-    <state width="1237" height="99" key="GridCell.Tab.0.center" timestamp="1597703768842">
+    <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597787317757" />
+    <state width="1237" height="183" key="GridCell.Tab.0.center" timestamp="1597787317755">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597703768842" />
-    <state width="1237" height="99" key="GridCell.Tab.0.left" timestamp="1597703768841">
+    <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597787317755" />
+    <state width="1237" height="183" key="GridCell.Tab.0.left" timestamp="1597787317754">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597703768841" />
-    <state width="1237" height="99" key="GridCell.Tab.0.right" timestamp="1597703768842">
+    <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597787317754" />
+    <state width="1237" height="183" key="GridCell.Tab.0.right" timestamp="1597787317755">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597703768842" />
-    <state width="1237" height="218" key="GridCell.Tab.1.bottom" timestamp="1597252333476">
+    <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597787317755" />
+    <state width="1237" height="107" key="GridCell.Tab.1.bottom" timestamp="1597786673270">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="218" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597252333476" />
-    <state width="1237" height="218" key="GridCell.Tab.1.center" timestamp="1597252333474">
+    <state width="1237" height="107" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597786673270" />
+    <state width="1237" height="107" key="GridCell.Tab.1.center" timestamp="1597786673270">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="218" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597252333474" />
-    <state width="1237" height="218" key="GridCell.Tab.1.left" timestamp="1597252333473">
+    <state width="1237" height="107" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597786673270" />
+    <state width="1237" height="107" key="GridCell.Tab.1.left" timestamp="1597786673270">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="218" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597252333473" />
-    <state width="1237" height="218" key="GridCell.Tab.1.right" timestamp="1597252333475">
+    <state width="1237" height="107" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597786673270" />
+    <state width="1237" height="107" key="GridCell.Tab.1.right" timestamp="1597786673270">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="218" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597252333475" />
+    <state width="1237" height="107" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597786673270" />
     <state x="91" y="65" key="new project wizard" timestamp="1596502736735">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -313,10 +314,50 @@
           <line>24</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/967. Numbers With Same Consecutive Differences.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/problems_easy/189. Rotate Array.kt</url>
           <line>14</line>
-          <properties method="main">
+          <properties>
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="35" />

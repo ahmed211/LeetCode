@@ -5,6 +5,7 @@ fun firstUniqChar(s: String): Int {
 
     for (char in s){
         alphabet[char.toInt()%26]++
+        println(char.toInt()%26)
     }
 
     for (i in s.indices){
@@ -16,5 +17,5 @@ fun firstUniqChar(s: String): Int {
 }
 
 fun main(){
-    print(firstUniqChar("loveleetcode"))
+    print(firstUniqChar("abcdefghijklmnopqrstuvwxyz"))
 }

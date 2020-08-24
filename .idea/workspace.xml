@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problems_easy/905. Sort Array By Parity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_easy/404. Sum of Left Leaves.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/problems_medium/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/problems_medium/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/problems_medium/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/problems_medium/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/problems_medium/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/problems_medium/_143__Reorder_ListKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems_medium/143. Reorder List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_medium/143. Reorder List.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems/problems_easy/_387__First_Unique_Character_in_a_StringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/problems_easy/_387__First_Unique_Character_in_a_StringKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems_easy/387. First Unique Character in a String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_easy/387. First Unique Character in a String.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +46,7 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._905__Sort_Array_By_ParityKt">
-    <configuration name="_1103__Distribute_Candies_to_PeopleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Problems" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_easy._1103__Distribute_Candies_to_PeopleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._387__First_Unique_Character_in_a_StringKt">
     <configuration name="_143__Reorder_ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -72,6 +55,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="problems_medium._143__Reorder_ListKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_387__First_Unique_Character_in_a_StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="problems_easy._387__First_Unique_Character_in_a_StringKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._387__First_Unique_Character_in_a_StringKt" />
         <item itemvalue="Kotlin._905__Sort_Array_By_ParityKt" />
         <item itemvalue="Kotlin._143__Reorder_ListKt" />
         <item itemvalue="Kotlin._824__Goat_LatinKt" />
         <item itemvalue="Kotlin._967__Numbers_With_Same_Consecutive_DifferencesKt" />
-        <item itemvalue="Kotlin._1103__Distribute_Candies_to_PeopleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -144,10 +140,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595445445462" />
-    <state x="47" y="87" key="#xdebugger.evaluate" timestamp="1598026392465">
+    <state x="47" y="87" key="#xdebugger.evaluate" timestamp="1598103434116">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="47" y="87" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1598026392465" />
+    <state x="47" y="87" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1598103434116" />
     <state width="444" height="438" key="DebuggerActiveHint" timestamp="1597983272690">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -156,38 +152,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596502701259" />
-    <state width="1237" height="145" key="GridCell.Tab.0.bottom" timestamp="1598026956264">
+    <state width="1237" height="146" key="GridCell.Tab.0.bottom" timestamp="1598113004900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="145" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598026956264" />
-    <state width="1237" height="145" key="GridCell.Tab.0.center" timestamp="1598026956264">
+    <state width="1237" height="146" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598113004900" />
+    <state width="1237" height="146" key="GridCell.Tab.0.center" timestamp="1598113004899">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="145" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598026956264" />
-    <state width="1237" height="145" key="GridCell.Tab.0.left" timestamp="1598026956264">
+    <state width="1237" height="146" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598113004899" />
+    <state width="1237" height="146" key="GridCell.Tab.0.left" timestamp="1598113004899">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="145" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598026956264" />
-    <state width="1237" height="145" key="GridCell.Tab.0.right" timestamp="1598026956264">
+    <state width="1237" height="146" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598113004899" />
+    <state width="1237" height="146" key="GridCell.Tab.0.right" timestamp="1598113004900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="145" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598026956264" />
-    <state width="1237" height="265" key="GridCell.Tab.1.bottom" timestamp="1598026402918">
+    <state width="1237" height="146" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598113004900" />
+    <state width="1237" height="146" key="GridCell.Tab.1.bottom" timestamp="1598113004900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="265" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598026402918" />
-    <state width="1237" height="265" key="GridCell.Tab.1.center" timestamp="1598026402917">
+    <state width="1237" height="146" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598113004900" />
+    <state width="1237" height="146" key="GridCell.Tab.1.center" timestamp="1598113004900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="265" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598026402917" />
-    <state width="1237" height="265" key="GridCell.Tab.1.left" timestamp="1598026402917">
+    <state width="1237" height="146" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598113004900" />
+    <state width="1237" height="146" key="GridCell.Tab.1.left" timestamp="1598113004900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="265" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598026402917" />
-    <state width="1237" height="265" key="GridCell.Tab.1.right" timestamp="1598026402917">
+    <state width="1237" height="146" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598113004900" />
+    <state width="1237" height="146" key="GridCell.Tab.1.right" timestamp="1598113004900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="265" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598026402917" />
+    <state width="1237" height="146" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598113004900" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1597980467073">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -272,12 +268,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/387. First Unique Character in a String.kt</url>
-          <line>6</line>
+          <line>2</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/387. First Unique Character in a String.kt</url>
-          <line>9</line>
+          <line>3</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
@@ -439,6 +435,21 @@
           <url>file://$PROJECT_DIR$/src/problems_easy/905. Sort Array By Parity.kt</url>
           <line>14</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_easy/387. First Unique Character in a String.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_easy/387. First Unique Character in a String.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_easy/387. First Unique Character in a String.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/problems_easy/189. Rotate Array.kt</url>

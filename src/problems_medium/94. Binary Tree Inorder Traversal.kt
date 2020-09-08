@@ -1,17 +1,27 @@
 package problems_medium
 
-private val traversalList = ArrayList<Int>()
+//private val traversalList = ArrayList<Int>()
 
 fun inorderTraversal(root: TreeNode?): List<Int> {
-    dfs(root)
+    val traversalList = ArrayList<Int>()
+    dfs(root, traversalList)
     return traversalList
 }
 
-private fun dfs(root: TreeNode?){
+
+
+private fun dfs(root: TreeNode?, traversalList: ArrayList<Int>){
     if (root != null){
-        dfs(root.left)
         traversalList.add(root.`val`)
-        dfs(root.right)
+
+//        println(root.`val`)
+        if (root.left == null){
+            println(traversalList)
+        }
+        else {
+            dfs(root.left, traversalList)
+            dfs(root.right, traversalList)
+        }
     }
 }
 

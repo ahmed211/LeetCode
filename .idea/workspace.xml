@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_easy/290. Word Pattern.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_medium/165. Compare Version Numbers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/problems_medium/_94__Binary_Tree_Inorder_TraversalKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/problems_medium/_94__Binary_Tree_Inorder_TraversalKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems_medium/94. Binary Tree Inorder Traversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems_medium/94. Binary Tree Inorder Traversal.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1022__Sum_of_Root_To_Leaf_Binary_NumbersKt">
+  <component name="RunManager" selected="Kotlin._165__Compare_Version_NumbersKt">
     <configuration name="TRDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -74,6 +70,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="problems_easy._1022__Sum_of_Root_To_Leaf_Binary_NumbersKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_165__Compare_Version_NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="problems_medium._165__Compare_Version_NumbersKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_983__Minimum_Cost_For_TicketsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Problems" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_medium._983__Minimum_Cost_For_TicketsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._165__Compare_Version_NumbersKt" />
         <item itemvalue="Kotlin._1022__Sum_of_Root_To_Leaf_Binary_NumbersKt" />
         <item itemvalue="Kotlin._290__Word_PatternKt" />
         <item itemvalue="Kotlin.TRDKt" />
         <item itemvalue="Kotlin._949__Largest_Time_for_Given_DigitsKt" />
-        <item itemvalue="Kotlin._983__Minimum_Cost_For_TicketsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -158,22 +154,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599321550554" />
-    <state width="1237" height="274" key="GridCell.Tab.0.bottom" timestamp="1599581124748">
+    <state width="1237" height="117" key="GridCell.Tab.0.bottom" timestamp="1599648125976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599581124748" />
-    <state width="1237" height="274" key="GridCell.Tab.0.center" timestamp="1599581124748">
+    <state width="1237" height="117" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599648125976" />
+    <state width="1237" height="117" key="GridCell.Tab.0.center" timestamp="1599648125976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="274" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599581124748" />
-    <state width="1237" height="274" key="GridCell.Tab.0.left" timestamp="1599581124748">
+    <state width="1237" height="117" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599648125976" />
+    <state width="1237" height="117" key="GridCell.Tab.0.left" timestamp="1599648125975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="274" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599581124748" />
-    <state width="1237" height="274" key="GridCell.Tab.0.right" timestamp="1599581124748">
+    <state width="1237" height="117" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599648125975" />
+    <state width="1237" height="117" key="GridCell.Tab.0.right" timestamp="1599648125976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="274" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599581124748" />
+    <state width="1237" height="117" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599648125976" />
     <state width="1237" height="274" key="GridCell.Tab.1.bottom" timestamp="1599581124748">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -202,6 +198,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1599234496310" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1599647997977">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1599647997977" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -533,52 +533,52 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>26</line>
+          <line>25</line>
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>24</line>
+          <line>23</line>
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>27</line>
+          <line>26</line>
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>25</line>
+          <line>24</line>
           <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>28</line>
+          <line>27</line>
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>29</line>
+          <line>28</line>
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>31</line>
+          <line>30</line>
           <option name="timeStamp" value="177" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>30</line>
+          <line>29</line>
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>21</line>
+          <line>20</line>
           <option name="timeStamp" value="179" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/1022. Sum of Root To Leaf Binary Numbers.kt</url>
-          <line>20</line>
+          <line>19</line>
           <option name="timeStamp" value="180" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">

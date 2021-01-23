@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problems_easy/299. Bulls and Cows.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_easy/1480. Running Sum of 1d Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_easy/20. Valid Parentheses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_medium/1641. Count Sorted Vowel Strings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_medium/1679. Max Number of K-Sum Pairs.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems/problems_easy/_299__Bulls_and_CowsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/problems_easy/_299__Bulls_and_CowsKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,54 +52,54 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._299__Bulls_and_CowsKt">
-    <configuration name="TRDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin._1480__Running_Sum_of_1d_ArrayKt">
+    <configuration name="_1480__Running_Sum_of_1d_ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_easy.TRDKt" />
+      <option name="MAIN_CLASS_NAME" value="problems_easy._1480__Running_Sum_of_1d_ArrayKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1022__Sum_of_Root_To_Leaf_Binary_NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_1641__Count_Sorted_Vowel_StringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_easy._1022__Sum_of_Root_To_Leaf_Binary_NumbersKt" />
+      <option name="MAIN_CLASS_NAME" value="problems_medium._1641__Count_Sorted_Vowel_StringsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_165__Compare_Version_NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_1679__Max_Number_of_K_Sum_PairsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_medium._165__Compare_Version_NumbersKt" />
+      <option name="MAIN_CLASS_NAME" value="problems_medium._1679__Max_Number_of_K_Sum_PairsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_290__Word_PatternKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_20__Valid_ParenthesesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_easy._290__Word_PatternKt" />
+      <option name="MAIN_CLASS_NAME" value="problems_easy._20__Valid_ParenthesesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1480__Running_Sum_of_1d_ArrayKt" />
+        <item itemvalue="Kotlin._20__Valid_ParenthesesKt" />
+        <item itemvalue="Kotlin._1679__Max_Number_of_K_Sum_PairsKt" />
+        <item itemvalue="Kotlin._1641__Count_Sorted_Vowel_StringsKt" />
         <item itemvalue="Kotlin._299__Bulls_and_CowsKt" />
-        <item itemvalue="Kotlin._165__Compare_Version_NumbersKt" />
-        <item itemvalue="Kotlin._1022__Sum_of_Root_To_Leaf_Binary_NumbersKt" />
-        <item itemvalue="Kotlin._290__Word_PatternKt" />
-        <item itemvalue="Kotlin.TRDKt" />
       </list>
     </recent_temporary>
   </component>
@@ -137,70 +142,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595445445462">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1610207496522">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595445445462" />
-    <state x="282" y="87" width="740" height="593" key="#xdebugger.evaluate" timestamp="1599580982219">
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610207496522" />
+    <state width="1237" height="225" key="GridCell.Tab.0.bottom" timestamp="1611424498394">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="282" y="87" width="740" height="593" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1599580982219" />
-    <state width="444" height="438" key="DebuggerActiveHint" timestamp="1597983272690">
+    <state width="1237" height="225" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611424498394" />
+    <state width="1237" height="225" key="GridCell.Tab.0.center" timestamp="1611424498393">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="444" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1597983272690" />
-    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1599690149065">
+    <state width="1237" height="225" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611424498393" />
+    <state width="1237" height="225" key="GridCell.Tab.0.left" timestamp="1611424498393">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599690149065" />
-    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1599735900716">
+    <state width="1237" height="225" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611424498393" />
+    <state width="1237" height="225" key="GridCell.Tab.0.right" timestamp="1611424498394">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599735900716" />
-    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1599735900716">
+    <state width="1237" height="225" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611424498394" />
+    <state width="1237" height="293" key="GridCell.Tab.1.bottom" timestamp="1610976357577">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599735900716" />
-    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1599735900716">
+    <state width="1237" height="293" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610976357577" />
+    <state width="1237" height="293" key="GridCell.Tab.1.center" timestamp="1610976357576">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599735900716" />
-    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1599735900716">
+    <state width="1237" height="293" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1610976357576" />
+    <state width="1237" height="293" key="GridCell.Tab.1.left" timestamp="1610976357576">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599735900716" />
-    <state width="1237" height="293" key="GridCell.Tab.1.bottom" timestamp="1599734526759">
+    <state width="1237" height="293" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1610976357576" />
+    <state width="1237" height="293" key="GridCell.Tab.1.right" timestamp="1610976357577">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="293" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599734526759" />
-    <state width="1237" height="293" key="GridCell.Tab.1.center" timestamp="1599734526759">
+    <state width="1237" height="293" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1610976357577" />
+    <state x="154" y="0" key="new project wizard" timestamp="1611315599124">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="293" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1599734526759" />
-    <state width="1237" height="293" key="GridCell.Tab.1.left" timestamp="1599734526759">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="293" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1599734526759" />
-    <state width="1237" height="293" key="GridCell.Tab.1.right" timestamp="1599734526759">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="293" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1599734526759" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1599482212044">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599482212044" />
-    <state x="91" y="0" key="new project wizard" timestamp="1599690151070">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1599690151070" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1599234496310">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1599234496310" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1599733695236">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1599733695236" />
+    <state x="154" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1611315599124" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -582,18 +563,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/299. Bulls and Cows.kt</url>
-          <line>19</line>
+          <line>21</line>
           <option name="timeStamp" value="190" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/299. Bulls and Cows.kt</url>
-          <line>21</line>
+          <line>23</line>
           <option name="timeStamp" value="191" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/problems_easy/299. Bulls and Cows.kt</url>
-          <line>23</line>
+          <line>25</line>
           <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/1679. Max Number of K-Sum Pairs.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/1679. Max Number of K-Sum Pairs.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/1679. Max Number of K-Sum Pairs.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/problems_medium/1679. Max Number of K-Sum Pairs.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/problems_easy/189. Rotate Array.kt</url>

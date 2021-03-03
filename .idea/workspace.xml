@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac689cae-72d8-4ba6-a230-706bf4289365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problems_easy/1480. Running Sum of 1d Array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_easy/20. Valid Parentheses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_medium/1641. Count Sorted Vowel Strings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems_medium/1679. Max Number of K-Sum Pairs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_easy/1431. Kids With the Greatest Number of Candies.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_easy/268. Missing Number.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems_easy/645. Set Mismatch.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/META-INF/Problems.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problems/problems_easy/_299__Bulls_and_CowsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problems/problems_easy/_299__Bulls_and_CowsKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,20 @@
       <recent name="D:\problem solving\leet code\problemsEasy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1480__Running_Sum_of_1d_ArrayKt">
+  <component name="RunManager" selected="Kotlin._268__Missing_NumberKt">
+    <configuration name="_1431__Kids_With_the_Greatest_Number_of_CandiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="problems_easy._1431__Kids_With_the_Greatest_Number_of_CandiesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_1480__Running_Sum_of_1d_ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
@@ -61,32 +72,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="problems_easy._1480__Running_Sum_of_1d_ArrayKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_1641__Count_Sorted_Vowel_StringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Problems" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_medium._1641__Count_Sorted_Vowel_StringsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_1679__Max_Number_of_K_Sum_PairsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Problems" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_medium._1679__Max_Number_of_K_Sum_PairsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,14 +90,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_299__Bulls_and_CowsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_268__Missing_NumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Problems" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="problems_easy._299__Bulls_and_CowsKt" />
+      <option name="MAIN_CLASS_NAME" value="problems_easy._268__Missing_NumberKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_645__Set_MismatchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="problems_easy._645__Set_MismatchKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._268__Missing_NumberKt" />
+        <item itemvalue="Kotlin._645__Set_MismatchKt" />
+        <item itemvalue="Kotlin._1431__Kids_With_the_Greatest_Number_of_CandiesKt" />
         <item itemvalue="Kotlin._1480__Running_Sum_of_1d_ArrayKt" />
         <item itemvalue="Kotlin._20__Valid_ParenthesesKt" />
-        <item itemvalue="Kotlin._1679__Max_Number_of_K_Sum_PairsKt" />
-        <item itemvalue="Kotlin._1641__Count_Sorted_Vowel_StringsKt" />
-        <item itemvalue="Kotlin._299__Bulls_and_CowsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,22 +144,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610207496522" />
-    <state width="1237" height="225" key="GridCell.Tab.0.bottom" timestamp="1611424498394">
+    <state width="1237" height="127" key="GridCell.Tab.0.bottom" timestamp="1614765406196">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="225" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611424498394" />
-    <state width="1237" height="225" key="GridCell.Tab.0.center" timestamp="1611424498393">
+    <state width="1237" height="127" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614765406196" />
+    <state width="1237" height="127" key="GridCell.Tab.0.center" timestamp="1614765406195">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="225" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611424498393" />
-    <state width="1237" height="225" key="GridCell.Tab.0.left" timestamp="1611424498393">
+    <state width="1237" height="127" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1614765406195" />
+    <state width="1237" height="127" key="GridCell.Tab.0.left" timestamp="1614765406195">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="225" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611424498393" />
-    <state width="1237" height="225" key="GridCell.Tab.0.right" timestamp="1611424498394">
+    <state width="1237" height="127" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1614765406195" />
+    <state width="1237" height="127" key="GridCell.Tab.0.right" timestamp="1614765406195">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="225" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611424498394" />
+    <state width="1237" height="127" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614765406195" />
     <state width="1237" height="293" key="GridCell.Tab.1.bottom" timestamp="1610976357577">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
